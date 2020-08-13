@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Video](/video.mp4)
+![Welcome](/video.mp4)
 
 <!--
 **realChainLife/realChainLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
