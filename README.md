@@ -1,6 +1,5 @@
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-![screenshot](https://raw.githubusercontent.com/realchainlife/realChainLife/update-readme/videos/video.mp4)
+![GitHub Logo](distributed-systems.png)
 
 <!--
 **realChainLife/realChainLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
