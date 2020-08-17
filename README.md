@@ -1,8 +1,6 @@
 
 # Hello, I’m Sonia✨!
 
-[![Welcome](readme.png)](https://realchainlife.github.io)
-
 I am a protocol developer 👾, [writer](https://reachainlife.github.io/blog/archive), and [speaker](https://realchainlife.github.io/portfolio/speaking). I’m passionate about the decentralized web and all the endless possibilities within it! I believe that it is not enough to know and be willing—we must act. 💻 🔭 I’m currently working on [Porium](https://github.com/porium/porium-specs), a web3-focused distributed online learning platform. Let's connect, you can also find me on [Twitter](https://twitter.com/realChainLife). 
 
 <!--
