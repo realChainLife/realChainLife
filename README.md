@@ -1,22 +1,22 @@
 
-# <em>Hi!</em> I'm Nick. 👋🏻
+# <em>Hi!</em> I'm Sonia. 👋🏻
 
 ![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/nickytonline/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:ffffff,g_south_west,x_30,y_280,l_text:roboto_64_bold:Not%20a%20real%20panda/w_860,c_fit,co_rgb:ffffff/social)
 
 
-💻&nbsp;&nbsp;Senior Software Engineer [@forem](https://github.com/forem)/[@thepracticaldev](https://github.com/thepracticaldev)
+💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
 🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca)
 
-🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
+🐦&nbsp;&nbsp;[@realchainlife](https://twitter.com/realchainlife) on Twitter
 
-🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
+🗒️&nbsp;&nbsp;Steward of [@IPFS Africa](https://twitter.com/ipfs_africa) on Twitter
 
-📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
+📷&nbsp;&nbsp;Connect on [Telegram](https://t.me/realchainlife)
 
 <hr />
 
-My name is Nick Taylor. I am a Senior Software Engineer at [Forem](https://www.forem.com/)/[DEV](https://dev.to) working on all things Forem. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding, and a long long time ago, rugby. I am also not a big fan of spiders.
+I am a protocol developer 👾, [writer](https://realchainlife.github.io/blog/archive), and [speaker](https://realchainlife.github.io/portfolio/speaking). I’m passionate about the decentralized web and all the endless possibilities within it! I believe that it is not enough to know and be willing—we must act. 💻 🔭 I’m currently working on [Porium](https://github.com/porium/porium-specs), a web3-focused distributed online learning platform.
 
 More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
