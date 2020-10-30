@@ -6,7 +6,7 @@
 
 💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
-🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca)
+🎙️&nbsp;&nbsp;Technical writing at [blog archive](https://realchainlife.github.io/blog/archive)
 
 🐦&nbsp;&nbsp;[@realchainlife](https://twitter.com/realchainlife) on Twitter
 
@@ -18,7 +18,7 @@
 
 I am a protocol developer 👾, [writer](https://realchainlife.github.io/blog/archive), and [speaker](https://realchainlife.github.io/portfolio/speaking). I’m passionate about the decentralized web and all the endless possibilities within it! I believe that it is not enough to know and be willing—we must act. 💻 🔭 I’m currently working on [Porium](https://github.com/porium/porium-specs), a web3-focused distributed online learning platform.
 
-More about me at [iamdeveloper.com](https://iamdeveloper.com).
+More about me at [realchainlyfe.crypto](https://realchainlyfe.crypto).
 
 <!--
 **realChainLife/realChainLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
