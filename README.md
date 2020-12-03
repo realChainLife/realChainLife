@@ -1,7 +1,7 @@
 
 # <em>Hi!</em> I'm Sonia. 👋🏻
 
-![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/realchainlife/image/upload/c_scale,h_355,w_766/v1606204408/perhaps_robdrr.png)
+![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/realchainlife/image/upload/c_scale,h_355,w_800/v1606204408/perhaps_robdrr.png)
 
 💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
