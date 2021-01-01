@@ -1,5 +1,5 @@
 
-![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/realchainlife/image/upload/v1609447536/perhaps_robdrr.png)
+![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.]()
 
 💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
