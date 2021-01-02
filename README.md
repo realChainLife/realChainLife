@@ -1,6 +1,4 @@
 
-![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.]()
-
 💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
 🎙️&nbsp;&nbsp;Technical writing at [blog archive](https://realchainlife.github.io/blog/archive)
