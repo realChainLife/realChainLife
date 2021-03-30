@@ -1,7 +1,7 @@
 
 💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
-🎙️&nbsp;&nbsp;Technical writing at [blog archive](https://realchainlife.github.io/blog/archive)
+🎙️&nbsp;&nbsp;Technical writing at [blog archive](https://realchainlife.github.io/archive)
 
 🐦&nbsp;&nbsp;[@realchainlife](https://twitter.com/realchainlife) on Twitter
 
