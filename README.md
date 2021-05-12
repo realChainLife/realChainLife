@@ -1,13 +1,5 @@
 
-💻&nbsp;&nbsp;Building [@Porium](https://github.com/porium/porium-specs)
 
-🎙️&nbsp;&nbsp;Technical writing at [blog archive](https://realchainlife.github.io/archive)
-
-🐦&nbsp;&nbsp;[@realchainlife](https://twitter.com/realchainlife) on Twitter
-
-🗒️&nbsp;&nbsp;Steward of [@IPFS Africa](https://twitter.com/ipfs_africa) on Twitter
-
-📷&nbsp;&nbsp;Connect on [Telegram](https://t.me/realchainlife)
 
 <hr />
 
