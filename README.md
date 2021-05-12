@@ -3,7 +3,7 @@
 
 <hr />
 
-I am a blockchain developer 👾, [writer](https://realchainlife.github.io/blog/archive), and [speaker](https://realchainlife.github.io/portfolio/speaking). I’m passionate about the decentralized web and all the endless possibilities within it! I believe that it is not enough to know and be willing—we must act. 💻 🔭 I’m currently working on [Porium](https://github.com/porium/porium-specs), a web3-focused distributed online learning platform.
+I am a blockchain developer 👾, [writer](https://realchainlife.github.io/blog/archive), and [speaker](https://realchainlife.github.io/portfolio/speaking). I’m passionate about the decentralized web and all the endless possibilities within it! I believe that it is not enough to know and be willing—we must act. 💻 🔭 
 
 More about me at [realchainlyfe.crypto](https://realchainlyfe.crypto). P.S You need an [Unstoppable Domains Extension](https://unstoppabledomains.com/extension) for `.crypto` sites 😄.
 
